@@ -1,0 +1,16 @@
+TODO: EVERYTHING
+
+GOALS: 
+
+1.  Create a generic simulated LM UI to feed impact date into the physics of ball flight.
+2.  Create a Simulated LM that can uses a generic wrapper to provide ball/club swing data.
+3.  Build/create some system of importing GC topography.
+4.  Build/create some type of golf course creation / editor.
+5.  Locate and provide opensource assets
+6.  Create a GC satallite image classifier to identify, greens, fairways, hazards, sandtraps, vegetation, trees, cart paths, water, creeks.
+7.  Build some type of networked realtime clients/servers system for multiple players and robots.
+8.  Build tournaments.
+9.  Add people/crowds/specator models 
+10. Provide some common LM drivers for most popular devices.
+
+
