@@ -1,11 +1,11 @@
 # Seneca-Golf
-Seneca Golf is an Open Source Golf Simulator.
-
-What is Seneca Golf.  It's a opensource golf simulator that could be the basis for any homebrewer DIY types that want to build and test a Launch Monitor, 
-or build a golf course, design a game.  Why is it called Seneca golf course.  Seneca is the name of a Golf course located near my house.  I need some means
-exercise so I started walking the golf course, learned to swing a club and enjoy the game.  Soon I was bitten by the bug and bought a Zepp and a net. Zepp has some 
-great tutorials and tips but simply tracks the motion of your lead glove hand during the swing.  After trying to teach myself how to swing with the Zepp, I decided
-to move up to my first simulator, with an Optishot.  This was a really great sensor system that track your club motion as the club face flighs over two banks of
+Seneca Golf 
+<img src="Seneca.png"></img>
+<br>
+What is Seneca Golf?  Seneca Golf is an Open Source Golf Simulator that could be the basis for any homebrewer, DIY types, golf fanatics that want to build
+and test a Launch Monitor, or build a golf course, design a game.  Why is it called Seneca golf course.  Seneca is the name of a Golf course located near my house.
+I needed some means of exercise so I started walking the golf course, learned to swing a club and enjoy the game.  Soon I was bitten by the bug and bought a Zepp
+and a net. Zepp has some great tutorials and tips but simply tracks the motion of your lead glove hand during the swing.  After trying to teach myself how to swing with the Zepp, I decided to move up to my first simulator, with an Optishot.  This was a really great sensor system that track your club motion as the club face flighs over two banks of
 infrarred LEDs.  The first bank is the trigger bank, and the second bank is the one that measures the face angle of the club.  You can get all kind of information 
 about a golf swing from this device.  Interesting enough, it does not see the golfball with the LED infrared emitter/detectors.  This got me started in really
 building out a full simulator, with projector and impact screen, golf mats.  I really enjoyed the Optishot software too.  It allowed you to play on many real courses
