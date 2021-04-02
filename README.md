@@ -26,5 +26,6 @@ With the terrain roughed out, I used a golfcart model (a box with 4 wheels) to r
 at object so one could get a sense of how a golf ball might play and act on landing, hitting objects and rolling.   It was about this time that events popped up and 
 I had to stop the project to take it up later.  I never forgot about this code, but I could not find the time to restart the project.  So this is the kickstart.
 
-So I'm opening this project up, for all that want to contributed and build something cool.  This can be a starting point, or whatever you would like to do.  
+So I'm opening this project up, for all that want to contributed and build something cool.  This can be a starting point, or whatever you would like to do. 
+
 Have fun.
