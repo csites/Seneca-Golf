@@ -12,5 +12,7 @@ Urho3d is an opensource project that aims to build a full robust game-engine, th
 
 So I'm opening this project up, for all that want to contributed and build something cool.  This can be a starting point, or whatever you would like to do. 
 
+For those that can't wait (and I would advise not to for now), I've recreated the Seneca Golf Course for TGC2019 along with Cherokee Park Golf Course (one of the oldest Muni golf courses in the USA) and Cresent Hill and soon to be released Charley Vittner Golf course.  I just recently looked at GSPro which also has a nice course creation software and also has an openAPI for DIY Launch monitor systems.  Should be fun.   
+
 Have fun.
 
